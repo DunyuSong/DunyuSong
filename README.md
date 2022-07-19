@@ -14,7 +14,7 @@
 What's up guys I'm DunyuSong (宋盾宇 in Chinese) and I am:
 
 - [DevStream](https://github.com/devstream-io/devstream) contributor and evangelist;
-- [DevLake](https://github.com/apache/incubator-devlake)contributor.
+- [DevLake](https://github.com/apache/incubator-devlake) contributor.
 
 
 ---
